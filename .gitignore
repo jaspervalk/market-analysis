@@ -30,7 +30,6 @@ wheels/
 *.png
 *.jpg
 *.jpeg
-*.gif
 *.svg
 
 # Data files
