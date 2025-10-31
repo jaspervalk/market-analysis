@@ -50,6 +50,7 @@ wheels/
 *.swp
 *.swo
 *~
+.claude/
 
 # Project specific
 market-analysis/
